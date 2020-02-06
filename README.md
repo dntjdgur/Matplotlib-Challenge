@@ -1,7 +1,7 @@
 # Matplotlib-Challenge
 
-#### Pharmaceutical Data Pythonic Statistical Analysis & Visualization
-#### The subject jupyter notebook file calculates basic statistical analysis of the pharmaceutical data.
+#### Experiment Data Pythonic Statistical Analysis & Visualization
+#### The subject jupyter notebook file calculates basic statistical analysis of the experimental data on mice versus Tumor.
 #### The following is the screenshots of part of the script to calculate each statistics:
 --------------------------------------------------------------------------------------------------------------------------
 ##### The dataset is as follows:
